@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dRms1tVn5kk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Documents\\practicas_net\\s5\\WebApplication1\\Teoria5\\Teoria5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
